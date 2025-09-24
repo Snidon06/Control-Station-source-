@@ -5,7 +5,7 @@ This  is the source code for the control station application
 Overview
 
 This project was originally created by joop brokking, but the codebase had significant issues that prevented it from running or meeting its intended goals.
-I took over maintenance, diagnosed the problems, and implemented a series of fixes to restore full functionality. Note if you want the premade ready to use control station software for it go to https://github.com/Snidon06/Control-Station
+I took over maintenance, diagnosed the problems, and implemented a series of fixes to restore full functionality. Note if you want the premade ready to use control station software go to https://github.com/Snidon06/Control-Station
 
 Current Status
 
